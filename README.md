@@ -13,7 +13,7 @@ edit the myApi.js file with your WooCommerce store website site url, and api aut
 
 ```npm eject```  
 
-copy or replace the repo files to your project.  
+copy or replace this repo files to your project.  
 
 ```npm run android```   
 
