@@ -7,7 +7,7 @@ PLEASE DO NOT SHARE OR SUBMIT TO APP STORE/ PLAY STORE AS THIS WILL EXPOSE YOUR 
 
 
 # HOW TO USE
-generate a myApi.js file with your WooCommerce store website site url, and api auth credentials.  
+edit the myApi.js file with your WooCommerce store website site url, and api auth credentials.  
 
 ```create-react-native-app yourappname```  
 
